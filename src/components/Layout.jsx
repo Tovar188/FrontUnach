@@ -101,7 +101,7 @@ function Layout({ children }) {
             sx={{color: "#D2A92D"}}
 
           >
-            UNACHhh
+            UNACH
           </Typography>
         </Toolbar>
       </AppBar>
